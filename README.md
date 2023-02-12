@@ -1,4 +1,5 @@
 Summary
+[View Notebook](https://nbviewer.org/github/MaryChianumba/Brain-Stroke-Analysis-Using-SQL/blob/main/Untitled.ipynb)
 
 ![](download.jfif)
 
